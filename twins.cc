@@ -23,7 +23,7 @@ int main(){
 
 	for(const auto x : v){
 		his += x;
-		//std::cout << his << '-' << x << '\n';
+		std::cout << his << '-' << x << '\n';
 	}
 
 	for(const auto x : v)
